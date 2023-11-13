@@ -8,21 +8,22 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What does it mean to implement a TDD workflow?
 
-Your answer:
+Your answer: TDD is a process that we use on ruby on rails that lets us write a failing code and then write a code to be able to pass.
 
-Researched answer:
+Researched answer: It stands for Test-Driven Development, it serves several functions, like ensuring our code is testable and improving code quality. It's an approach where you write tests for your code before actually writing the code itself.
 
 2. What is a relational database? Are there other kinds of databases?
 
-Your answer:
+Your answer: a relational database stores data into a table and makes it easy to access sicne it will have a unique identifer. PostgreSql is an example of a database
 
-Researched answer:
+Researched answer: a structured set of data that can easily be accessed, manipulated or updated.
+Examples include: MySQL, Microsoft Sql Servers and Oracle Databse
 
 3. Why is an ORM?
 
-Your answer:
+Your answer:It's like a language translator for computer systems. It makes it easier for them to share information.
 
-Researched answer:
+Researched answer: converts data between incompatible systems by using object-oriented programming languages. Basically, ORM serves as a translator between two different languages.
 
 4. STRETCH: What is the difference between inheritance in JavaScript and inheritance in Ruby?
 
